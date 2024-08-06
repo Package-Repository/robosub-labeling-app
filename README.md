@@ -1,1 +1,0 @@
-# yolo_labeling_app
